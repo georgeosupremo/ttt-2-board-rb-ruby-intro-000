@@ -1,3 +1,4 @@
+puts board 
 row = [" ", " ", " "]
 
 # Position 1: Left
